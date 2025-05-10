@@ -1,0 +1,77 @@
+{
+  "tasks": [
+    "task",
+    {
+      "id": 1746887213609,
+      "title": "raaa",
+      "description": "",
+      "date": {},
+      "taskType": "inprogress",
+      "priority": "low",
+      "tags": [
+        "updates"
+      ]
+    },
+    {
+      "id": 1746887269166,
+      "title": "ttttttt",
+      "description": "",
+      "date": {},
+      "taskType": "inprogress",
+      "priority": "low",
+      "tags": [
+        "updates"
+      ]
+    },
+    {
+      "id": 1746887548373,
+      "title": "go to store",
+      "description": "",
+      "date": "",
+      "taskType": "inprogress",
+      "priority": "low",
+      "tags": [
+        "updates"
+      ]
+    },
+    {
+      "id": 1746889566759,
+      "title": "trrt",
+      "description": "",
+      "date": "",
+      "taskType": "inprogress",
+      "priority": "low",
+      "tags": [
+        "updates"
+      ]
+    }
+  ],
+  "notes": [
+    "notes",
+    {
+      "id": 1746634758539,
+      "title": "hi",
+      "description": "test"
+    },
+    {
+      "id": 1746634759093,
+      "title": "hi",
+      "description": "test"
+    },
+    {
+      "id": 1746634796888,
+      "title": "API ",
+      "description": "this is received"
+    },
+    {
+      "id": 1746635107924,
+      "title": "hi",
+      "description": "new"
+    },
+    {
+      "id": 1746884797149,
+      "title": "today's note",
+      "description": "this should show"
+    }
+  ]
+}
